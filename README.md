@@ -8,7 +8,7 @@
 Install dependencies
 
 ```sh
-npm install
+npm install discord.js
 ``` 
 
 # Setup
@@ -21,3 +21,5 @@ npm install
 node .
 ``` 
 to start the bot.
+
+(Note: This is a selfbot, I recommend using an alt to run this)
