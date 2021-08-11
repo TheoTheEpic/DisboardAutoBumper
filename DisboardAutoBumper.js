@@ -1,5 +1,5 @@
 const config = require('./config.json')
-const Discord = require('discord.js');
+const Discord = require('discord.js-selfbot');
 const client = new Discord.Client();
 
 async function bump(channel_id) {
