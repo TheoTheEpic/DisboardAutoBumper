@@ -1,0 +1,4 @@
+{
+  "token": "Bot token",
+  "channel_id": "Channel ID you want to send the bump message to"
+}
